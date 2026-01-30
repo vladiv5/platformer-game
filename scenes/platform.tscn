@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://dgl6ibui1la2v"]
+
+[ext_resource type="Texture2D" uid="uid://c4kuf0rmgj7r5" path="res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Terrain (16 x 16).png" id="1_4vywa"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_um16b"]
+size = Vector2(14, 15)
+
+[node name="Platform" type="AnimatableBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_4vywa")
+region_enabled = true
+region_rect = Rect2(240, 48, 16, 15)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_um16b")
+one_way_collision = true

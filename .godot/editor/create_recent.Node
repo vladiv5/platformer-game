@@ -1,0 +1,14 @@
+AnimationPlayer
+AudioStreamPlayer2D
+Label
+Node
+Timer
+AnimatedSprite2D
+RayCast2D
+CollisionShape2D
+ParallaxLayer
+Sprite2D
+ParallaxBackground
+Area2D
+AnimatableBody2D
+TileMap

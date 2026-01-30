@@ -1,0 +1,84 @@
+[gd_scene load_steps=6 format=3 uid="uid://3yy4tqysucw6"]
+
+[ext_resource type="Texture2D" uid="uid://d4mdhr6ybfqhv" path="res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Background parts/5 - Sky_color.png" id="1_pvrhd"]
+[ext_resource type="Texture2D" uid="uid://gycsaphhh6yb" path="res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Background parts/3 - Cloud_cover_1.png" id="2_u461a"]
+[ext_resource type="Texture2D" uid="uid://wcfr8njti70s" path="res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Background parts/2 - Hills.png" id="4_wccap"]
+[ext_resource type="Texture2D" uid="uid://6nwkhc0h2e2r" path="res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Background parts/Green.png" id="5_hvwy4"]
+[ext_resource type="Texture2D" uid="uid://dkhlerclhge1x" path="res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Background parts/1 - Foreground_scenery.png" id="5_sv5cb"]
+
+[node name="Background" type="Node2D"]
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+
+[node name="Sky" type="ParallaxLayer" parent="ParallaxBackground"]
+motion_scale = Vector2(0, 0)
+
+[node name="Sky color" type="Sprite2D" parent="ParallaxBackground/Sky"]
+position = Vector2(144, 104)
+texture = ExtResource("1_pvrhd")
+
+[node name="Clouds" type="Sprite2D" parent="ParallaxBackground/Sky"]
+position = Vector2(144, 120)
+texture = ExtResource("2_u461a")
+
+[node name="Clouds4" type="Sprite2D" parent="ParallaxBackground/Sky"]
+position = Vector2(126, 201)
+texture = ExtResource("2_u461a")
+
+[node name="Clouds5" type="Sprite2D" parent="ParallaxBackground/Sky"]
+position = Vector2(368, 192)
+texture = ExtResource("2_u461a")
+
+[node name="Clouds6" type="Sprite2D" parent="ParallaxBackground/Sky"]
+position = Vector2(682, 192)
+texture = ExtResource("2_u461a")
+
+[node name="Clouds7" type="Sprite2D" parent="ParallaxBackground/Sky"]
+position = Vector2(753, 40)
+texture = ExtResource("2_u461a")
+
+[node name="Clouds8" type="Sprite2D" parent="ParallaxBackground/Sky"]
+position = Vector2(473, 43)
+texture = ExtResource("2_u461a")
+
+[node name="Clouds9" type="Sprite2D" parent="ParallaxBackground/Sky"]
+position = Vector2(177, 43)
+texture = ExtResource("2_u461a")
+
+[node name="Clouds2" type="Sprite2D" parent="ParallaxBackground/Sky"]
+position = Vector2(432, 120)
+texture = ExtResource("2_u461a")
+
+[node name="Clouds3" type="Sprite2D" parent="ParallaxBackground/Sky"]
+position = Vector2(720, 120)
+texture = ExtResource("2_u461a")
+
+[node name="Green" type="ParallaxLayer" parent="ParallaxBackground"]
+motion_mirroring = Vector2(576, 0)
+
+[node name="Hills" type="Sprite2D" parent="ParallaxBackground/Green"]
+position = Vector2(144, 104)
+texture = ExtResource("4_wccap")
+
+[node name="Foreground" type="Sprite2D" parent="ParallaxBackground/Green"]
+position = Vector2(144, 104)
+texture = ExtResource("5_sv5cb")
+
+[node name="Green3" type="Sprite2D" parent="ParallaxBackground/Green"]
+position = Vector2(144, 312)
+texture = ExtResource("5_hvwy4")
+
+[node name="Green2" type="ParallaxLayer" parent="ParallaxBackground"]
+motion_mirroring = Vector2(576, 0)
+
+[node name="Hills" type="Sprite2D" parent="ParallaxBackground/Green2"]
+position = Vector2(432, 104)
+texture = ExtResource("4_wccap")
+
+[node name="Foreground" type="Sprite2D" parent="ParallaxBackground/Green2"]
+position = Vector2(432, 104)
+texture = ExtResource("5_sv5cb")
+
+[node name="Green4" type="Sprite2D" parent="ParallaxBackground/Green2"]
+position = Vector2(432, 312)
+texture = ExtResource("5_hvwy4")

@@ -1,0 +1,118 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1769786625
+default_bus_layout.tres::AudioBusLayout::2197569001714094098::1740424361::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1740425380::0::1::::<><>::
+icon.svg::CompressedTexture2D::7568728012502855289::1739902486::1739902507::1::::<><>::
+::res://assets/::1739903090
+::res://assets/fonts/::1740414090
+PixelOperator8-Bold.ttf::FontFile::2301735102779561118::1740414088::1740414090::1::::<><>::
+PixelOperator8.ttf::FontFile::5634812752751669072::1740414088::1740414090::1::::<><>::
+::res://assets/music/::1740595180
+time_for_adventure.mp3::AudioStreamMP3::6266217637003967840::1740424080::1740595180::1::::<><>::
+::res://assets/sounds/::1740424091
+coin.wav::AudioStreamWAV::9201684604571149885::1740424087::1740424091::1::::<><>::
+explosion.wav::AudioStreamWAV::4842938821700185329::1740424087::1740424091::1::::<><>::
+hurt.wav::AudioStreamWAV::2360816726727422615::1740424087::1740424091::1::::<><>::
+jump.wav::AudioStreamWAV::711415977490367880::1740424087::1740424091::1::::<><>::
+power_up.wav::AudioStreamWAV::5470334724012365332::1740424087::1740424091::1::::<><>::
+tap.wav::AudioStreamWAV::3495410034494313183::1740424087::1740424091::1::::<><>::
+::res://assets/sprites/::1740066600
+::res://assets/sprites/coins/::1739903066
+MonedaD.png::CompressedTexture2D::2341933239359285986::1739902988::1739903066::1::::<><>::
+MonedaP.png::CompressedTexture2D::5800019500759991113::1739902988::1739903066::1::::<><>::
+MonedaR.png::CompressedTexture2D::4116046542745671353::1739902988::1739903066::1::::<><>::
+spr_coin_ama.png::CompressedTexture2D::4865661741675092140::1739902988::1739903066::1::::<><>::
+spr_coin_azu.png::CompressedTexture2D::5924962641130612474::1739902988::1739903066::1::::<><>::
+spr_coin_gri.png::CompressedTexture2D::8513195756452791992::1739902988::1739903066::1::::<><>::
+spr_coin_roj.png::CompressedTexture2D::578688848791732626::1739902988::1739903066::1::::<><>::
+spr_coin_strip4.png::CompressedTexture2D::3789783451127076671::1739902988::1739903066::1::::<><>::
+::res://assets/sprites/enemies/::1740066614
+::res://assets/sprites/enemies/Forest_Monsters_FREE/::1740066614
+::res://assets/sprites/enemies/Forest_Monsters_FREE/Mushroom/::1740066614
+::res://assets/sprites/enemies/Forest_Monsters_FREE/Mushroom/Mushroom with VFX/::1740066620
+Mushroom-Attack.png::CompressedTexture2D::8970883017411162672::1740066614::1740066620::1::::<><>::
+Mushroom-AttackWithStun.png::CompressedTexture2D::8092803714320063084::1740066614::1740066620::1::::<><>::
+Mushroom-Die.png::CompressedTexture2D::40686097980946909::1740066614::1740066620::1::::<><>::
+Mushroom-Hit.png::CompressedTexture2D::3917634640144333813::1740066614::1740066620::1::::<><>::
+Mushroom-Idle.png::CompressedTexture2D::4120551520258140335::1740066614::1740066620::1::::<><>::
+Mushroom-Run.png::CompressedTexture2D::4607663222089204973::1740066614::1740066620::1::::<><>::
+Mushroom-Stun.png::CompressedTexture2D::542285464334768619::1740066614::1740066620::1::::<><>::
+::res://assets/sprites/enemies/Forest_Monsters_FREE/Mushroom/Mushroom without VFX/::1740066620
+Mushroom-Attack.png::CompressedTexture2D::8068362638247240681::1740066614::1740066620::1::::<><>::
+Mushroom-AttackWithStun.png::CompressedTexture2D::1300804347184236213::1740066614::1740066620::1::::<><>::
+Mushroom-Die.png::CompressedTexture2D::6333897734346593421::1740066614::1740066620::1::::<><>::
+Mushroom-Hit.png::CompressedTexture2D::5666172991913988045::1740066614::1740066620::1::::<><>::
+Mushroom-Idle.png::CompressedTexture2D::3169433194780142088::1740066614::1740066620::1::::<><>::
+Mushroom-Run.png::CompressedTexture2D::759730488205092237::1740066614::1740066620::1::::<><>::
+Mushroom-Stun.png::CompressedTexture2D::8403125197936540706::1740066614::1740066620::1::::<><>::
+::res://assets/sprites/player/::1739914311
+AnimationSheet_Character.png::CompressedTexture2D::7072708001178216243::1739914248::1739914311::1::::<><>::
+::res://assets/sprites/world/::1739911573
+::res://assets/sprites/world/Seasonal Tilesets/::1739911574
+LICENSE.txt::TextFile::-1::1739911573::0::1::::<><>::
+::res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/::1739911586
+Extra_plants (16 x 16).png::CompressedTexture2D::5125876514410726617::1739911573::1739911586::1::::<><>::
+Grassland_entities (16 x 16).png::CompressedTexture2D::8663119494139913919::1739911573::1739911586::1::::<><>::
+Terrain (16 x 16).png::CompressedTexture2D::6830186219153655880::1739911573::1739911586::1::::<><>::
+::res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Background parts/::1740064333
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::8820611387579114772::1739911573::1739911586::1::::<><>::
+1 - Foreground_scenery.png::CompressedTexture2D::7876277058330042779::1739911573::1739911586::1::::<><>::
+2 - Hills.png::CompressedTexture2D::1548619012792721204::1739911573::1739911586::1::::<><>::
+3 - Cloud_cover_1.png::CompressedTexture2D::470831729701230325::1739911573::1739911586::1::::<><>::
+4 - Cloud_cover_2.png::CompressedTexture2D::6045867026009291376::1739911573::1739911586::1::::<><>::
+5 - Sky_color.png::CompressedTexture2D::9219706643044484411::1739911573::1739911586::1::::<><>::
+Green.png::CompressedTexture2D::2204045067261058719::1740064330::1740064333::1::::<><>::
+::res://assets/sprites/world/Seasonal Tilesets/2 - Autumn Forest/::1739911586
+Autumn_entities (16 x 16).png::CompressedTexture2D::692133059171286207::1739911573::1739911586::1::::<><>::
+Terrain (16 x 16).png::CompressedTexture2D::7115955946267755669::1739911573::1739911586::1::::<><>::
+::res://assets/sprites/world/Seasonal Tilesets/2 - Autumn Forest/Background parts/::1739911586
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::162952830402192004::1739911573::1739911586::1::::<><>::
+1 - Leaf_top.png::CompressedTexture2D::2051808500507536940::1739911573::1739911586::1::::<><>::
+2 - Trees.png::CompressedTexture2D::255193282579142236::1739911573::1739911586::1::::<><>::
+3 - Bottom_leaf_piles.png::CompressedTexture2D::5934143349459560636::1739911573::1739911586::1::::<><>::
+4 - Tree_row_BG_1.png::CompressedTexture2D::8287779095144301676::1739911573::1739911586::1::::<><>::
+5 - Tree_row_BG_2.png::CompressedTexture2D::4352809952273875911::1739911573::1739911586::1::::<><>::
+6 - Distant_trees.png::CompressedTexture2D::6405265944371107142::1739911573::1739911586::1::::<><>::
+::res://assets/sprites/world/Seasonal Tilesets/3 - Tropics/::1739911586
+Terrain (16 x 16).png::CompressedTexture2D::6157920002547280994::1739911573::1739911586::1::::<><>::
+Tropics_entities (16 x 16).png::CompressedTexture2D::2400438779911965526::1739911573::1739911586::1::::<><>::
+::res://assets/sprites/world/Seasonal Tilesets/3 - Tropics/Background parts/::1739911586
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::5133574657320124971::1739911573::1739911586::1::::<><>::
+1 - Waters_version_1.png::CompressedTexture2D::4030401835424474613::1739911573::1739911586::1::::<><>::
+2 - Waters_version_2.png::CompressedTexture2D::9215408636547569550::1739911573::1739911586::1::::<><>::
+3 - Floating_clouds.png::CompressedTexture2D::8547299262541229450::1739911573::1739911586::1::::<><>::
+4 - Background_clouds.png::CompressedTexture2D::1736037832854783017::1739911573::1739911586::1::::<><>::
+5 - Sky_color.png::CompressedTexture2D::624571291108083961::1739911573::1739911586::1::::<><>::
+::res://assets/sprites/world/Seasonal Tilesets/4 - Winter World/::1739911586
+Terrain (16 x 16).png::CompressedTexture2D::1536224275324690289::1739911573::1739911586::1::::<><>::
+Winter_entities (16 x 16).png::CompressedTexture2D::7707102178255380874::1739911573::1739911586::1::::<><>::
+::res://assets/sprites/world/Seasonal Tilesets/4 - Winter World/Background parts/::1739911586
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::7132032801331520217::1739911573::1739911586::1::::<><>::
+1 - Snowy_foreground_area.png::CompressedTexture2D::6167267107508154583::1739911574::1739911586::1::::<><>::
+2 - Smaller_mountains.png::CompressedTexture2D::3263388593486590147::1739911574::1739911586::1::::<><>::
+3 - Big_mountain_BG.png::CompressedTexture2D::5235212987386400125::1739911574::1739911586::1::::<><>::
+::res://assets/sprites/world/Seasonal Tilesets/5 - Misc. universal tiles/::1739911586
+Blocks (16 x 16).png::CompressedTexture2D::6500776104689945951::1739911574::1739911586::1::::<><>::
+Bubbling_Oil_frames (16 x 32).png::CompressedTexture2D::9126905423789478130::1739911574::1739911586::1::::<><>::
+Flowers (16 x 16).png::CompressedTexture2D::9055155423464230944::1739911574::1739911586::1::::<><>::
+House (112 x 96).png::CompressedTexture2D::1448792623356390193::1739911574::1739911586::1::::<><>::
+Lava_frames (16 x 32).png::CompressedTexture2D::7840718136331726397::1739911574::1739911586::1::::<><>::
+Metal_Wire_fence (16 x 16).png::CompressedTexture2D::1932747112034669623::1739911574::1739911586::1::::<><>::
+Rock_shape (16 x 16).png::CompressedTexture2D::694410110951410808::1739911574::1739911586::1::::<><>::
+Snack_machine_Bench_Trash_bin (16 x 16).png::CompressedTexture2D::2311353578306807230::1739911574::1739911586::1::::<><>::
+Water_frames (16 x 32).png::CompressedTexture2D::3676901919085234886::1739911574::1739911586::1::::<><>::
+::res://scenes/::1740595216
+background.tscn::PackedScene::2016342707587795283::1740595216::0::1::::<><>::uid://d4mdhr6ybfqhv::::res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Background parts/5 - Sky_color.png<>uid://gycsaphhh6yb::::res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Background parts/3 - Cloud_cover_1.png<>uid://wcfr8njti70s::::res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Background parts/2 - Hills.png<>uid://6nwkhc0h2e2r::::res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Background parts/Green.png<>uid://dkhlerclhge1x::::res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Background parts/1 - Foreground_scenery.png
+coin.tscn::PackedScene::3546152247027352572::1740595216::0::1::::<><>::res://scripts/coin.gd<>uid://8mpke3bxv33c::::res://assets/sprites/coins/MonedaD.png<>uid://d4dmnvvbmbjdl::::res://assets/sounds/coin.wav
+enemy_mushroom_run.tscn::PackedScene::8837118462294778901::1740595216::0::1::::<><>::res://scripts/enemy_mushroom.gd<>uid://b6v8smlkcey7n::::res://assets/sprites/enemies/Forest_Monsters_FREE/Mushroom/Mushroom with VFX/Mushroom-Run.png<>uid://cxcgiap1888xq::::res://scenes/killzone.tscn
+game.tscn::PackedScene::7890035615456387618::1740595216::0::1::::<><>::res://scripts/game_manager.gd<>uid://cb07ucn2m7xr4::::res://scenes/player.tscn<>uid://c4kuf0rmgj7r5::::res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Terrain (16 x 16).png<>uid://718igotklf23::::res://assets/fonts/PixelOperator8-Bold.ttf<>uid://dvoqkvdopwihr::::res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Grassland_entities (16 x 16).png<>uid://76vwkbjjq4kg::::res://assets/sprites/world/Seasonal Tilesets/5 - Misc. universal tiles/Snack_machine_Bench_Trash_bin (16 x 16).png<>uid://bsnebjif77qks::::res://assets/sprites/world/Seasonal Tilesets/5 - Misc. universal tiles/Water_frames (16 x 32).png<>uid://cfbao4rluhlxh::::res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Extra_plants (16 x 16).png<>uid://dxw1gfb78urvw::::res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Background parts/_Complete_static_BG_(288 x 208).png<>uid://cyva3kthru7eh::::res://assets/sprites/world/Seasonal Tilesets/5 - Misc. universal tiles/Blocks (16 x 16).png<>uid://d3be2fq40bmec::::res://assets/sprites/world/Seasonal Tilesets/5 - Misc. universal tiles/Bubbling_Oil_frames (16 x 32).png<>uid://d2anc7nsms6rs::::res://assets/sprites/world/Seasonal Tilesets/5 - Misc. universal tiles/Flowers (16 x 16).png<>uid://uv2nxxbqqywf::::res://assets/sprites/world/Seasonal Tilesets/5 - Misc. universal tiles/House (112 x 96).png<>uid://djydqnm5uxsjl::::res://assets/sprites/world/Seasonal Tilesets/5 - Misc. universal tiles/Lava_frames (16 x 32).png<>uid://2sicek0uslp4::::res://assets/sprites/world/Seasonal Tilesets/5 - Misc. universal tiles/Metal_Wire_fence (16 x 16).png<>uid://j5m3lbdfd0tg::::res://assets/sprites/world/Seasonal Tilesets/5 - Misc. universal tiles/Rock_shape (16 x 16).png<>uid://dgl6ibui1la2v::::res://scenes/platform.tscn<>uid://bqr1uyqhp8xno::::res://scenes/coin.tscn<>uid://cxcgiap1888xq::::res://scenes/killzone.tscn<>uid://3yy4tqysucw6::::res://scenes/background.tscn<>uid://dx51bx0oo3574::::res://scenes/enemy_mushroom_run.tscn<>uid://cmjssppqj4dlw::::res://assets/fonts/PixelOperator8.ttf
+killzone.tscn::PackedScene::6391692139275726778::1740595216::0::1::::<><>::res://scripts/killzone.gd
+music.tscn::PackedScene::8854520978551188776::1740424458::0::1::::<><>::uid://cvjnxopq5s8i3::::res://assets/music/time_for_adventure.mp3
+platform.tscn::PackedScene::7604999865147254435::1740595216::0::1::::<><>::uid://c4kuf0rmgj7r5::::res://assets/sprites/world/Seasonal Tilesets/1 - Grassland/Terrain (16 x 16).png
+player.tscn::PackedScene::4896618440895588763::1740595216::0::1::::<><>::res://scripts/player.gd<>uid://c71cp5moa2cpv::::res://assets/sprites/player/AnimationSheet_Character.png
+::res://scripts/::1740425020
+coin.gd::GDScript::-1::1740425020::0::1::::<>Area2D<>::
+enemy_mushroom.gd::GDScript::-1::1740068199::0::1::::<>Node2D<>::
+game_manager.gd::GDScript::-1::1740423138::0::1::::<>Node<>::
+killzone.gd::GDScript::-1::1740162620::0::1::::<>Area2D<>::
+player.gd::GDScript::-1::1740240515::0::1::::<>CharacterBody2D<>::

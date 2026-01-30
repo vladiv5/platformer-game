@@ -1,0 +1,9 @@
+res://scenes/background.tscn::ad33e80a9ddd9cd9fb178d49aa612dbd::1769786734::res://.godot/exported/133200997/export-f1e46807209045e58980fb2be1ec694d-background.scn
+res://scenes/coin.tscn::5b012e0369c7ab9d0b72fd96cd2cfff2::1769786734::res://.godot/exported/133200997/export-96b2131180b71dd158e52c5527d22dd4-coin.scn
+res://scenes/enemy_mushroom_run.tscn::cd0fd2042e457a7fb0e27a003ea61e06::1769786734::res://.godot/exported/133200997/export-dc5fb926a80f259b47bcb921f3a49fc8-enemy_mushroom_run.scn
+res://scenes/game.tscn::8e69771baf80fa705ac054e6ec3ca3ab::1769786734::res://.godot/exported/133200997/export-c2a7af834e91ff64325daddf58e45dc0-game.scn
+res://scenes/killzone.tscn::8cf9b072026e9af439b3e9111e880a22::1769786734::res://.godot/exported/133200997/export-494bf1445653c44a49a39c8f8b1ce8d0-killzone.scn
+res://scenes/platform.tscn::28f7dcfd8831ca6ec599e720d4dc7f28::1769786734::res://.godot/exported/133200997/export-cc2f727180cd42d9c13434cb55b1ce69-platform.scn
+res://scenes/player.tscn::fb6d74a9359651afa087f64f1ad200bc::1769786734::res://.godot/exported/133200997/export-234fb6894ec6226e856ab7f825500d3d-player.scn
+res://scenes/music.tscn::3caead55c9f03fb9ac8215711d77330c::1740424458::res://.godot/exported/133200997/export-bfd8027ae1117ff610be6f2619a76089-music.scn
+res://default_bus_layout.tres::ac0a3ccdf5825dc0678e5834c34001e7::1740424361::res://.godot/exported/133200997/export-19246414aa9fb561ced4b8dce477acec-default_bus_layout.res
